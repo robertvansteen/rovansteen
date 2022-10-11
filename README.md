@@ -2,7 +2,7 @@
 
 I develop products that solve problems for users.
 
-🔭 I’m currently working on [Accredion](https://www.accredion.com) and [Eurovision](https://eurovision.tv)
+🔭 I’m currently working at [Superscript](https://gosuperscript.com)
 
 🌱 I’m currently learning Python, Swift & SwiftUI
 
